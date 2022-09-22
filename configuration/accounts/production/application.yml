@@ -1,4 +1,4 @@
 server:
   port: 7777
 accounts:
-  allow-get-accounts: true
+  allow-get-accounts: false
